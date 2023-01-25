@@ -1,7 +1,7 @@
 # CONTROL | Basic !@#$% Colours
 A large collection of basic paint bucket recolours of outfits made for Jesse Faden of CONTROL.
 
-<img src="https://imgur.com/iEt1kW1.png" alt="Astral Dive" width="280"> <img src="https://imgur.com/m2epHGn.png" alt="Candidate P7" width="280"> <img src="https://imgur.com/7iGITHr.png" alt="Civilian" width="280"> <img src="https://imgur.com/KredODi.png" alt="Director's Suit" width="280"> <img src="https://imgur.com/C9HLTSt.png" alt="Extradimensional" width="280"> <img src="https://imgur.com/qNL6W88.png" alt="Hair" width="280"> <img src="https://imgur.com/bspJuqq.png" alt="Janitor's Assistant" width="280"> <img src="https://imgur.com/s6xApA4.png" alt="Office Assistant" width="280"> <img src="https://imgur.com/AoFlGex.png" alt="Mix and match colours" width="280">
+<img src="https://imgur.com/iEt1kW1.png" alt="Astral Dive" width="220"> <img src="https://imgur.com/m2epHGn.png" alt="Candidate P7" width="220"> <img src="https://imgur.com/7iGITHr.png" alt="Civilian" width="220"> <img src="https://imgur.com/KredODi.png" alt="Director's Suit" width="220"> <img src="https://imgur.com/C9HLTSt.png" alt="Extradimensional" width="220"> <img src="https://imgur.com/qNL6W88.png" alt="Hair" width="220"> <img src="https://imgur.com/bspJuqq.png" alt="Janitor's Assistant" width="220"> <img src="https://imgur.com/s6xApA4.png" alt="Office Assistant" width="220"> <img src="https://imgur.com/AoFlGex.png" alt="Mix and match colours" width="220">
 
 ------
 
