@@ -47,11 +47,6 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_suit_pants_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_suit_blouse_d.tex`
 
-**EXPEDITION GEAR**
-<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_expedition_accessories_d.tex`
-<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_expedition_bottom_d.tex`
-<br>`data_pc\textures\characters\andro\jesse\tops\jesse_expedition_top_d.tex`
-
 **EXTRADIMENSIONAL SUIT**
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_hedron_accessories_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_hedron_overalls_d.tex`
