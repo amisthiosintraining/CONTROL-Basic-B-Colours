@@ -13,9 +13,7 @@ A large collection of basic paint bucket recolours of outfits made for Jesse Fad
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
-------
-
-### UNINSTALLATION
+### Uninstallation
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`,
